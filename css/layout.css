@@ -242,10 +242,12 @@ ul#nav li.current a { color: #F06000; }
 }
  #intern {
    background: #fff;
+   padding-top: 50px;
    overflow: hidden;
 }
 #skill{
    background: #fff;
+   padding-top: 50px;
    overflow: hidden;
 }
 
