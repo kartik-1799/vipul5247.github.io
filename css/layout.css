@@ -667,6 +667,7 @@ call-to-action .button {
    min-height: 200px;
    width: 100%;
    overflow: hidden;
+   opacity: 0.75;
 }
 #testimonials .text-container {
    padding-top: 96px;
