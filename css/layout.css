@@ -334,35 +334,45 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
+.python {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
-.html5 {
+.dm {
+  	width: 85%;
+  	-moz-animation: dm 2s ease;
+  	-webkit-animation: dm 2s ease;
+}
+.ml {
+  	width: 85%;
+  	-moz-animation: ml 2s ease;
+  	-webkit-animation: ml 2s ease;
+}
+.dl {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: dl 2s ease;
+  	-webkit-animation: dl 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.c {
+  	width: 90%;
+  	-moz-animation: c 2s ease;
+  	-webkit-animation: c 2s ease;
+}
+.nlp {
+  	width: 75%;
+  	-moz-animation: nlp 2s ease;
+  	-webkit-animation: nlp 2s ease;
+}
+.cv {
+    width: 70%;
+    -moz-animation: cv 2s ease;
+    -webkit-animation: cv 2s ease;
+}
+.ejs {
+    width: 60%;
+    -moz-animation: ejs 2s ease;
+    -webkit-animation: ejs 2s ease;
 }
 
 @-moz-keyframes photoshop {
